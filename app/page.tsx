@@ -225,14 +225,18 @@ export default function Home() {
           <div className="bg-white/5 border border-white/10 rounded-xl p-8">
             <div className="space-y-4">
               <a
-                href="mailto:hello@leroyconsulting.ai"
+                href="https://calendly.com/joshua-leroyconsulting"
+                target="_blank"
                 className="block w-full bg-orange-500 hover:bg-orange-600 text-black font-semibold py-3 rounded-lg text-lg transition text-center"
+              >
+                Book a Free Consultation
+              </a>
+              <a
+                href="mailto:hello@leroyconsulting.ai"
+                className="block w-full border border-white/20 hover:border-white/40 py-3 rounded-lg text-lg transition text-center"
               >
                 hello@leroyconsulting.ai
               </a>
-              <p className="text-gray-500 text-sm">
-                Or reach out on Telegram — our AI CEO responds fast. 🦞
-              </p>
             </div>
           </div>
         </div>
