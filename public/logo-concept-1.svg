@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 80" fill="none">
+  <!-- Concept 1: Clean wordmark with accent bar -->
+  <text x="0" y="56" font-family="system-ui, -apple-system, sans-serif" font-size="52" font-weight="700" fill="white" letter-spacing="-2">
+    <tspan fill="white">LEROY</tspan>
+    <tspan fill="#f97316" dx="8">CONSULTING</tspan>
+  </text>
+  <rect x="0" y="68" width="60" height="3" rx="1.5" fill="#f97316"/>
+</svg>
